@@ -1,0 +1,14 @@
+.col-sm-6 {
+  width: 50%;
+  float: left;
+}
+input#search {
+  padding: 7px;
+  margin: 10px;
+  float: right;
+}
+input[type="submit"] {
+  padding: 7px;
+  margin: 10px;
+
+}
